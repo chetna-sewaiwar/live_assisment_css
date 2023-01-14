@@ -1,0 +1,141 @@
+body{
+    width:99%;
+    height: 700px;
+    background-color: bisque;
+}
+
+.main{
+    width: 99%;
+    height: 100px;
+    display:flex;
+    flex-wrap: wrap;
+
+
+}
+.css{
+    margin-left: 300px;
+    
+}
+.react{
+    margin-left: 300px;
+
+}
+.node{
+    margin-left: 300px;
+}
+.change{
+    width:100%;
+    height: 50px;
+    background-color: red;
+}
+.change:hover{
+    width: 100%;
+    height: 50px;
+    background-color: cadetblue;
+    border: 1px solid blue;
+    border-radius: 20px;
+}
+.img{
+    margin-top: 7px;
+    margin-bottom: 5px;
+
+}
+.box{
+    display: flex;
+
+}
+
+.box1{
+    width: 150px;
+    height: 40px;
+    background-color: aquamarine;
+    border: 2px solid black;
+    border-radius: 15px;
+    margin-top: 5px;
+    text-decoration: line-through;
+    text-align: center;
+    padding-top: 20px;
+}
+.box1:hover{
+    width: 150px;
+    height: 40px;
+    background-color: purple;
+    border: 2px solid black;
+    border-radius: 15px;
+    margin-top: 5px;
+    text-decoration: line-through;
+    text-align: center;
+    padding-top: 20px;
+}
+.box2{
+    width: 150px;
+    height: 40px;
+    background-color: aquamarine;
+    border: 2px solid black;
+    border-radius: 15px;
+    margin-left: 200px;
+    margin-top: 5px;
+    text-decoration: line-through;
+    text-align: center;
+    padding-top: 20px;
+}
+.box2:hover{
+    width: 150px;
+    height: 40px;
+    background-color: purple;
+    border: 2px solid black;
+    border-radius: 15px;
+    margin-left: 200px;
+    margin-top: 5px;
+    text-decoration: line-through;
+    text-align: center;
+    padding-top: 20px;
+}
+.box3{
+    width: 150px;
+    height: 40px;
+    background-color: aquamarine;
+    border: 2px solid black;
+    border-radius: 15px;
+    margin-left: 200px;
+    margin-top: 5px;
+    text-decoration: line-through;
+    text-align: center;
+    padding-top: 20px;
+}
+.box3:hover{
+    width: 150px;
+    height: 40px;
+    background-color: purple;
+    border: 2px solid black;
+    border-radius: 15px;
+    margin-left: 200px;
+    margin-top: 5px;
+    text-decoration: line-through;
+    text-align: center;
+    padding-top: 20px;
+}
+.box4{
+    width: 150px;
+    height: 40px;
+    background-color: aquamarine;
+    border: 2px solid black;
+    border-radius: 15px;
+    margin-left: 200px;
+    margin-top: 5px;
+    text-decoration: line-through;
+    text-align: center;
+    padding-top: 20px;
+}
+.box4:hover{
+    width: 150px;
+    height: 40px;
+    background-color: purple;
+    border: 2px solid black;
+    border-radius: 15px;
+    margin-left: 200px;
+    margin-top: 5px;
+    text-decoration: line-through;
+    text-align: center;
+    padding-top: 20px;
+}
